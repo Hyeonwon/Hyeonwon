@@ -7,3 +7,5 @@
 
 ### Contact
 [[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)]](https://www.instagram.com/?hl=ko)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeonwon&show_icons=true&theme=radical)
