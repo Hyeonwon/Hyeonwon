@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Hello%20World!" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=5&text=Wellcome&fontColor=b" width="100%"/>
 
 ### 공부중
 아직 부족한 점이 많아요.
