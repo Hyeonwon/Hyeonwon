@@ -1,5 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome&fontColor==" width="100%"/>
+### WELCOME
+안녕하세요😄
 
 ### 공부중
 아직 부족한 점이 많아요.
