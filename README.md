@@ -47,12 +47,3 @@ I'm currently learning and growing to become a **Front-End Developer**.
 </a>
 
 ---
-
-## 📝 Blog & Info
-
-<a href="https://github.com/Hyeonwon" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/followers/Hyeonwon?style=flat-square&label=Followers"/>
-
-> ✨ 꾸준히 배우고, 성장하는 개발자가 되기 위해 노력하고 있어요.
