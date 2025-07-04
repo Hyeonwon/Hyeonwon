@@ -1,7 +1,15 @@
-# 👋 Hello World! I'm Hyeonwon
+# 👋 Welcome!
 
-I'm currently studying to become a **Front-End Developer**.  
-I enjoy learning new technologies and building beautiful, user-friendly web interfaces.
+Hello there! 😄  
+I'm currently learning and growing to become a **Front-End Developer**.
+
+---
+
+## 📚 Currently Learning
+
+- Building strong foundations in web development  
+- Continuously improving my skills in JavaScript and React  
+- Studying hard to turn my passion into real-world projects
 
 ---
 
