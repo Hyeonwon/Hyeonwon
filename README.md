@@ -7,7 +7,6 @@ I'm currently learning and growing to become a **Front-End Developer**.
 
 ## 📚 Currently Learning
 
-- Building strong foundations in web development  
 - Continuously improving my skills in JavaScript and React  
 - Studying hard to turn my passion into real-world projects
 
