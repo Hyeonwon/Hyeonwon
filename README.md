@@ -41,3 +41,5 @@ I'm currently learning and growing to become a **Front-End Developer**.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyeonwon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyeonwon&layout=donut&exclude_repo=clone-repo1,clone-repo2&hide_border=true&count_private=true" />
