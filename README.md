@@ -7,7 +7,6 @@ I'm currently learning and growing to become a **Front-End Developer**.
 
 ## 📫 Contact
 - Email: vn72045470@gmail.com
-- Blog: [My Tech Blog](#)
 
 ## 📚 Currently Learning
 
