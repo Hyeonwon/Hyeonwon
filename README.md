@@ -5,10 +5,6 @@ I'm currently learning and growing to become a **Front-End Developer**.
 
 ---
 
-## 📫 Contact
-- Email: vn72045470@gmail.com
-- Instagram: [@wjsgudnjs](https://www.instagram.com/wjsgudnjs/)
-
 ## 📚 Currently Learning
 
 - Continuously improving my skills in JavaScript and React  
@@ -35,3 +31,9 @@ I'm currently learning and growing to become a **Front-End Developer**.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyeonwon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </a>
+
+---
+
+## 📫 Contact
+- Email: vn72045470@gmail.com
+- Instagram: [@wjsgudnjs](https://www.instagram.com/wjsgudnjs/)
