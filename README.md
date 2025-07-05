@@ -1,18 +1,18 @@
-# 👋 Welcome!
+# Welcome!
 
 Hello there! 😄  
 I'm currently learning and growing to become a **Front-End Developer**.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Continuously improving my skills in JavaScript and React  
 - Studying hard to turn my passion into real-world projects
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -25,15 +25,6 @@ I'm currently learning and growing to become a **Front-End Developer**.
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- 활동 그래프 -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hyeonwon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
-</a>
-
----
-
-## 📫 Contact
+## Contact
 - Email: vn72045470@gmail.com
 - Instagram: [@wjsgudnjs](https://www.instagram.com/wjsgudnjs/)
