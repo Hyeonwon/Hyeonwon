@@ -27,4 +27,3 @@ I'm currently learning and growing to become a **Front-End Developer**.
 
 ## Contact
 - Email: vn72045470@gmail.com
-- Instagram: [@wjsgudnjs](https://www.instagram.com/wjsgudnjs/)
