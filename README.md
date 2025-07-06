@@ -7,8 +7,9 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
 
 ## Currently Learning
 
-- Strengthening my programming fundamentals  
-- Actively working on projects to steadily improve both my technical skills and teamwork capabilities.
+- Strengthening my programming fundamentals
+- I am actively working on projects.
+- This helps me steadily improve both my technical skills and teamwork capabilities.
 
 ---
 
