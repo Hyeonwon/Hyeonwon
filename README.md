@@ -1,14 +1,14 @@
 # Welcome!
 
 Hello there! 😄  
-I'm currently learning and growing to become a **Front-End Developer**.
+I'm continuously learning and exploring, with a strong interest in Mixed Reality (MR) and Design.
 
 ---
 
 ## Currently Learning
 
-- Continuously improving my skills in JavaScript and React  
-- Studying hard to turn my passion into real-world projects
+- Strengthening my programming fundamentals  
+- Actively working on projects to steadily improve both my technical skills and teamwork capabilities.
 
 ---
 
