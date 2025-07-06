@@ -1,7 +1,7 @@
 # Welcome!
 
 Hello there! 😄  
-I'm continuously learning and exploring, with a strong interest in Mixed Reality (MR) and Design.
+I'm continuously learning and exploring, with a strong interest in **Mixed Reality (MR)** and **Design**.
 
 ---
 
