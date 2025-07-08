@@ -33,7 +33,7 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-0acf83?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
 </p>
 
@@ -42,7 +42,7 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 ## Work / My Work
 
 [![Expo Profile](https://img.shields.io/badge/Expo_Profile-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/accounts/hyeongwon)
-[![Figma Profile](https://img.shields.io/badge/Figma_Profile-0ACF83?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)  
+[![Figma Profile](https://img.shields.io/badge/Figma_Profile-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)  
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
