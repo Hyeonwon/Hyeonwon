@@ -32,7 +32,7 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 <p>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android_Studio-2E7D59?style=flat-square&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-A4C639?style=flat-square&logo=android-studio&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-0acf83?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
 </p>
