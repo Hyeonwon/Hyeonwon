@@ -27,7 +27,7 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
 
 ---
 
-## Tools
+## Design & Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
