@@ -24,6 +24,7 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0acf83?style=flat-square&logo=figma&logoColor=white"/>
 
 </p>
 
