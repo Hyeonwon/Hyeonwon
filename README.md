@@ -7,8 +7,8 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
 
 ## Currently Learning
 
-- Strengthening my programming fundamentals
-- I am actively working on projects.
+- Strengthening my programming fundamentals  
+- I am actively working on projects.  
 - This helps me steadily improve both my technical skills and teamwork capabilities.
 
 ---
@@ -34,7 +34,10 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
   <img src="https://img.shields.io/badge/Figma-0acf83?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
+- [🔗 Figma Design Files](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)
+
 ---
 
 ## Contact
+
 - Email: vn72045470@gmail.com
