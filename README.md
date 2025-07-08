@@ -1,7 +1,7 @@
 # Welcome!
 
 Hello there! 😄  
-Passionate about ***Mixed Reality (MR)*** and ***Design***.
+I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 
 ---
 
