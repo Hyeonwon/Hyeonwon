@@ -39,7 +39,11 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
 
 ## Work / My Work
 
-- [🔗 Figma Design Files](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)
+- <p>
+  <a href="https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717" target="_blank">
+    <img src="https://img.shields.io/badge/Figma_Design_Files-0ACF83?style=flat-square&logo=figma&logoColor=white"/>
+  </a>
+</p>
 - <p>
   <a href="https://expo.dev/accounts/hyeongwon" target="_blank">
     <img src="https://img.shields.io/badge/Expo_Profile-000020?style=flat-square&logo=expo&logoColor=white"/>
