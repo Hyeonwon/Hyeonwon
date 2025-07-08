@@ -5,6 +5,14 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 
 ---
 
+## Currently Learning
+
+- Deepening my understanding of programming fundamentals 
+- Actively engaged in various projects 
+- Continuously improving my technical skills and teamwork abilities
+  
+---
+
 ## Tech Stack
 
 <p>
@@ -35,6 +43,10 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 [![Expo Profile](https://img.shields.io/badge/Expo_Profile-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/accounts/hyeongwon)
 [![Figma Profile](https://img.shields.io/badge/Figma_Profile-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)  
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+---
+
+##Projects
 
 ---
 
