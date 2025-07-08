@@ -47,4 +47,4 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
 
 ## Contact
 
-- Email: vn72045470@gmail.com
+[![Email](https://img.shields.io/badge/Email-vn72045470@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:vn72045470@gmail.com)
