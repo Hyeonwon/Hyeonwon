@@ -5,14 +5,6 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 
 ---
 
-## Currently Learning
-
-- Deepening my understanding of programming fundamentals 
-- Actively engaged in various projects 
-- Continuously improving my technical skills and teamwork abilities
-
----
-
 ## Tech Stack
 
 <p>
