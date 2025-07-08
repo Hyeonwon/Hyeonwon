@@ -46,7 +46,7 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 
 ---
 
-##Projects
+## Projects
 
 ---
 
