@@ -34,6 +34,10 @@ Passionate about ***Mixed Reality (MR)*** and ***Design***.
   <img src="https://img.shields.io/badge/Figma-0acf83?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
+---
+
+## Work / My Work
+
 - [🔗 Figma Design Files](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)
 
 ---
