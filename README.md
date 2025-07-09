@@ -13,6 +13,12 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
   
 ---
 
+## Study Logs
+
+[![Algorithm Log](https://img.shields.io/badge/Algorithm_Log-Notion-purple?style=flat-square&logo=notion)](https://www.notion.so/Programming-22ae71e095b08036a2b4df39fc5493ee)
+
+---
+
 ## Tech Stack
 
 <p>
