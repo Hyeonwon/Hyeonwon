@@ -48,7 +48,7 @@ I have a strong passion for ***Mixed Reality (MR)*** and ***Design***.
 ---
 
 ## Projects
-
+[![GeoMemo](https://img.shields.io/badge/GeoMemo-Notion-blue?style=flat-square&logo=notion)](https://www.notion.so/Projects-GeoMemo-22ae71e095b080098634c35e7693670b)
 ---
 
 ## Contact
