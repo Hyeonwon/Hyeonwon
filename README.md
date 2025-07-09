@@ -21,7 +21,7 @@ I'm passionate about ***Mixed Reality (MR)*** and ***Design***.
 
 ## Projects
 
-[![GeoMemo](https://img.shields.io/badge/GeoMemo-0055FF?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Projects-GeoMemo-22ae71e095b080098634c35e7693670b)
+[![GeoMemo](https://img.shields.io/badge/GeoMemo-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/Projects-GeoMemo-22ae71e095b080098634c35e7693670b)
 
 ---
 
