@@ -16,9 +16,9 @@ I'm passionate about ***Mixed Reality (MR)*** and ***Design***.
 ## Study Logs
 
 [![Algorithm Log](https://img.shields.io/badge/Algorithm_Log-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Programming-22ae71e095b08036a2b4df39fc5493ee)
-[![Expo Profile](https://img.shields.io/badge/Expo_Profile-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/accounts/hyeongwon)
+[![Expo Projects](https://img.shields.io/badge/Expo_Projects-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/accounts/hyeongwon)
 [![Firebase Console](https://img.shields.io/badge/Firebase_Console-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://console.firebase.google.com/u/0/)
-[![Figma Profile](https://img.shields.io/badge/Figma_Profile-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)
+[![Figma Designs](https://img.shields.io/badge/Figma_Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)
 
 ---
 
