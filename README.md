@@ -13,7 +13,7 @@ Currently researching **AMASS-based motion visualization in Unity** as an underg
 ---
 
 ## Projects
-[![AMASS-Viewer](https://img.shields.io/badge/AMASS_Viewer-000000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/본인아이디/AMASS-Viewer)
+[![AMASS-Viewer](https://img.shields.io/badge/AMASS_Viewer-000000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/Hyeonwon/AMASS-Viewer)
 [![GeoMemo](https://img.shields.io/badge/GeoMemo-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/GeoMemo-22ae71e095b080098634c35e7693670b)
 
 ---
