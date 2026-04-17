@@ -18,7 +18,7 @@ Undergraduate Researcher at **[CAU Virtual Embodied AI Lab](https://graphics.cau
 
 | Project | Notion | GitHub |
 |--------|--------|--------|
-| AMASS-Viewer | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)]([![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2025-2-1-2ece71e095b08071bbd3f309f7e63ccd)) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/본인아이디/AMASS-Viewer) |
+| AMASS-Viewer | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2c6e71e095b080f6bcfee5b0569b222f) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hyeonwon/AMASS-Viewer) |
 
 **App Development**
 
