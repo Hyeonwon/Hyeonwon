@@ -31,6 +31,7 @@ Currently researching **AMASS-based motion visualization in Unity** as an underg
 ---
 
 ## Study Logs
+[![Research Log](https://img.shields.io/badge/Research_Log-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2c6e71e095b080f6bcfee5b0569b222f)
 [![Algorithm Log](https://img.shields.io/badge/Algorithm_Log-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Programming-22ae71e095b08036a2b4df39fc5493ee)
 [![Figma Designs](https://img.shields.io/badge/Figma_Designs-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/team/1524339522143776202/user/1524297676773186717?fuid=1524297676773186717)
 
