@@ -26,7 +26,7 @@ Undergraduate Researcher at **[CAU Virtual Embodied AI Lab](https://graphics.cau
 |--------|--------|--------|
 | RunIt | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2025-2-1-2ece71e095b08071bbd3f309f7e63ccd) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/25-2-Capstone-1) |
 | GoNow | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2026-1-2-2ece71e095b08146abe5c3a5fdf7b140) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/26-1-Capstone-2) |
-| GeoMemo | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/GeoMemo-22ae71e095b080098634c35e7693670b) | - |
+| GeoMemo | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/GeoMemo-22ae71e095b080098634c35e7693670b) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/2025-OSS-Project) |
 
 
 ---
