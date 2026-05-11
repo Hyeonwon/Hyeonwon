@@ -1,6 +1,6 @@
 ## Hyeongwon
 
-I'm interested in ***Virtual Reality (VR)*** and ***Human Motion***.  
+I'm interested in ***VR***, ***Human Motion***, and ***HCI/XR Interaction***.
 Undergraduate Researcher at **[CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/)**, working on AMASS-based motion visualization in Unity.
 
 ---
