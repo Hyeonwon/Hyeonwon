@@ -1,12 +1,16 @@
 ## Hyeongwon
 
 I'm interested in ***VR***, ***Human Motion***, and ***HCI/XR Interaction***.
-Undergraduate Researcher at **[CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/)**, working on AMASS-based motion visualization in Unity.
+Undergraduate Research Intern at **[KAIST HCI Tech Lab](https://hcitech.org/)**, working on Laban Movement Analysis (LMA) applied to humanoid robots and robot arms.
 
 ---
 
 ## Research
-- Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/)
+- Undergraduate Research Intern @ [KAIST HCI Tech Lab](https://hcitech.org/)
+- Literature review & dataset curation on LMA and emotion-labeled motion data
+- Goal: Extracting LMA features from video/motion data to inform expressive robot motion generation
+
+- Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/) *(previous)*
 - Parsing AMASS mocap data (npz) and visualizing in Unity
 - Goal: Real-time human motion playback in VR environment
 
