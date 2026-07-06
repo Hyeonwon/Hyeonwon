@@ -6,11 +6,14 @@ Undergraduate Research Intern at **[KAIST HCI Tech Lab](https://hcitech.org/)**,
 ---
 
 ## Research
-- Undergraduate Research Intern @ [KAIST HCI Tech Lab](https://hcitech.org/)
+
+### <img src="https://en.wikipedia.org/wiki/Special:FilePath/KAIST_logo.svg" width="20" height="20"/> KAIST HCI Tech Lab *(Current)*
+Undergraduate Research Intern @ [KAIST HCI Tech Lab](https://hcitech.org/)
 - Literature review & dataset curation on LMA and emotion-labeled motion data
 - Goal: Extracting LMA features from video/motion data to inform expressive robot motion generation
 
-- Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/) *(previous)*
+### <img src="https://en.wikipedia.org/wiki/Special:FilePath/Logo_of_Chung-Ang_University.svg" width="20" height="20"/> CAU Virtual Embodied AI Lab *(Previous)*
+Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/)
 - Parsing AMASS mocap data (npz) and visualizing in Unity
 - Goal: Real-time human motion playback in VR environment
 
