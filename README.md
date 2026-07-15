@@ -1,7 +1,7 @@
 ## Hyeongwon
 
 I'm interested in ***VR***, ***Human Motion***, and ***HCI/XR Interaction***.
-Undergraduate Research Intern at **[KAIST HCI Tech Lab](https://hcitech.org/)**, working on Laban Movement Analysis (LMA) applied to humanoid robots and robot arms.
+Undergraduate Research Intern at **[KAIST HCI Tech Lab](https://hcitech.org/)**, working on chain-based motion retargeting for heterogeneous robots.
 
 ---
 
@@ -9,8 +9,10 @@ Undergraduate Research Intern at **[KAIST HCI Tech Lab](https://hcitech.org/)**,
 
 ### KAIST HCI Tech Lab *(Current)*
 Undergraduate Research Intern @ [KAIST HCI Tech Lab](https://hcitech.org/)
-- Literature review & dataset curation on LMA and emotion-labeled motion data
-- Goal: Extracting LMA features from video/motion data to inform expressive robot motion generation
+- Designing a user-defined motion authoring tool that lets a single human motion source be reinterpreted differently across robots, based on the designer's intent
+- Decomposing full-body human motion into independent, branch-free **kinematic chains** (e.g., left arm, spine-head, right arm) as the minimal unit of retargeting, allowing designers to selectively map only the chains they want onto a target robot's joint structure
+- Building a customizable similarity-based optimization module, letting designers choose how each mapped chain mimics the source motion (positional similarity, orientation similarity, or trajectory following)
+- Goal: give designers maximal freedom to decouple and remap human motion onto heterogeneous robot morphologies (humanoids, robot arms, mobile robots), rather than being limited to fixed, whole-body or single-part retargeting
 
 ### CAU Virtual Embodied AI Lab *(Previous)*
 Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/)
@@ -25,6 +27,7 @@ Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac
 
 | Project | Notion | GitHub |
 |--------|--------|--------|
+| Generative Motion Synthesis for Expressive Robots | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/HCI-Tech-Lab-Kaist-39ce71e095b0804b83b5e8c80ab17b15?source=copy_link) | Coming soon |
 | AMASS-Viewer | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2c6e71e095b080f6bcfee5b0569b222f) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hyeonwon/AMASS-Viewer) |
 
 **App Development**
@@ -34,7 +37,6 @@ Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac
 | RunIt | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2025-2-1-2ece71e095b08071bbd3f309f7e63ccd) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/25-2-Capstone-1) |
 | GoNow | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2026-1-2-2ece71e095b08146abe5c3a5fdf7b140) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/26-1-Capstone-2) |
 | GeoMemo | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/GeoMemo-22ae71e095b080098634c35e7693670b) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/2025-OSS-Project) |
-
 
 ---
 
