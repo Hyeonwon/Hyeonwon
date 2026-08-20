@@ -1,7 +1,6 @@
-## Hyeongwon
+## Hi, there 👋
 
 I'm interested in ***VR***, ***Human Motion***, and ***HCI/XR Interaction***.
-Undergraduate Research Intern at **[KAIST HCI Tech Lab](https://hcitech.org/)**, working on chain-based motion retargeting for heterogeneous robots.
 
 ---
 
