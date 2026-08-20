@@ -1,8 +1,4 @@
-## Hi, there 👋
-
-I'm interested in ***VR***, ***Human Motion***, and ***HCI/XR Interaction***.
-
----
+## Hi, I'm Hyeongwon.👋
 
 ## Research
 
