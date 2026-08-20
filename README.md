@@ -7,14 +7,14 @@ Undergraduate Research Intern at **[KAIST HCI Tech Lab](https://hcitech.org/)**,
 
 ## Research
 
-### KAIST HCI Tech Lab *(Current)*
+### KAIST HCI Tech Lab *(2026.06.25 – 2026.08.21)*
 Undergraduate Research Intern @ [KAIST HCI Tech Lab](https://hcitech.org/)
 - Designing a user-defined motion authoring tool that lets a single human motion source be reinterpreted differently across robots, based on the designer's intent
 - Decomposing full-body human motion into independent, branch-free **kinematic chains** (e.g., left arm, spine-head, right arm) as the minimal unit of retargeting, allowing designers to selectively map only the chains they want onto a target robot's joint structure
 - Building a customizable similarity-based optimization module, letting designers choose how each mapped chain mimics the source motion (positional similarity, orientation similarity, or trajectory following)
 - Goal: give designers maximal freedom to decouple and remap human motion onto heterogeneous robot morphologies (humanoids, robot arms, mobile robots), rather than being limited to fixed, whole-body or single-part retargeting
 
-### CAU Virtual Embodied AI Lab *(Previous)*
+### CAU Virtual Embodied AI Lab *(2026.03.22 – 2026.06.19)*
 Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac.kr/)
 - Parsing AMASS mocap data (npz) and visualizing in Unity
 - Goal: Real-time human motion playback in VR environment
@@ -27,7 +27,7 @@ Undergraduate Researcher @ [CAU Virtual Embodied AI Lab](https://graphics.cau.ac
 
 | Project | Notion | GitHub |
 |--------|--------|--------|
-| Generative Motion Synthesis for Expressive Robots | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/HCI-Tech-Lab-Kaist-39ce71e095b0804b83b5e8c80ab17b15?source=copy_link) | Coming soon |
+| Generative Motion Synthesis for Expressive Robots | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/HCI-Tech-Lab-Kaist-39ce71e095b0804b83b5e8c80ab17b15?source=copy_link) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HCIMECHA/InMic) |
 | AMASS-Viewer | [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/2c6e71e095b080f6bcfee5b0569b222f) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Hyeonwon/AMASS-Viewer) |
 
 **App Development**
